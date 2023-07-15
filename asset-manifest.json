@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calculator-practice/npm%20install%20--save%20gh-pages/static/css/main.072bbc1e.css",
+    "main.js": "/calculator-practice/npm%20install%20--save%20gh-pages/static/js/main.0272602f.js",
+    "index.html": "/calculator-practice/npm%20install%20--save%20gh-pages/index.html",
+    "main.072bbc1e.css.map": "/calculator-practice/npm%20install%20--save%20gh-pages/static/css/main.072bbc1e.css.map",
+    "main.0272602f.js.map": "/calculator-practice/npm%20install%20--save%20gh-pages/static/js/main.0272602f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.072bbc1e.css",
+    "static/js/main.0272602f.js"
+  ]
+}
